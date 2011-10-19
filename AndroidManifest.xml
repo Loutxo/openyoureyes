@@ -16,7 +16,7 @@
         <intent-filter><action android:name="it.openyoureyes.business.Controller"></action>
    </intent-filter>
         </service>
-<activity android:name="it.eng.na.eyes.test.another.MyActivity"
+<activity android:name="it.openyoureyes.test.another.MyActivity"
                   android:label="Ciao ciccio" android:screenOrientation="portrait">
                   </activity>
          <activity android:name=".PreferenceActivity"/>
