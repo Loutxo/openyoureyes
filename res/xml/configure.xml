@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<lists>
+<ContentProviderOfGeoItems class="it.eng.na.eyes.test.another.TestList"/> 
+<!-- <ContentProviderOfGeoItems class="it.eng.na.eyes.test.OpenCellIdList"/>-->
+ <ContentProviderOfGeoItems class="it.eng.na.eyes.test.panoramio.PanoramioModel"/>
+</lists>

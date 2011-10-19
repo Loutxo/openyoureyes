@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="app_name">EyES</string>
+    <string name="preference">Impostazioni</string>
+    <string name="distance">Distanza in metri</string>
+    
+</resources>
