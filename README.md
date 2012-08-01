@@ -14,7 +14,7 @@ How it works (if it works)
 --------------------------
 The main architecture used by openyoureyes it's based on MVC pattern: a controller read the configuration file with the _n_ content providers of geo datas, then inform the canvas that some new items was received
 
-![Architecture](https://github.com/paspao/openyoureyes/blob/master/arc.png "Architecture")
+![Architecture](https://github.com/paspao/openyoureyes/raw/master/arc.png "Architecture")
 
 
 I'm working on readme just now, please forgive me until september
