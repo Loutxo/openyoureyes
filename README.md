@@ -27,4 +27,4 @@ In addition you have to define your geo item implementing _GeoItem_ or simply ex
 
 Known bugs
 ==========
-* Managemnt of the screen rotation
+* Screen rotation management
