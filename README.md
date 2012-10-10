@@ -24,7 +24,14 @@ A ContentProvider must implement _ContentProviderOfGeoItems_ interface or more s
 
 In addition you have to define your geo item implementing _GeoItem_ or simply extending _AbstractGeoItem_, so you can define what drawing and the onclick action.
 
+Usage example
+=============
+[ToscaMobile][] 
+
+
 
 Known bugs
 ==========
 * Screen rotation management
+
+[ToscaMobile]: http://www.youtube.com/watch?v=3fzgdJXpBr8
